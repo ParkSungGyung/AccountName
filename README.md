@@ -1,2 +1,2 @@
-# AccountName
+# ParkSungGyung's
 ## JAVA Programming Study
